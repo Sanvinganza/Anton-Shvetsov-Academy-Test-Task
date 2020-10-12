@@ -1,0 +1,7 @@
+function intervalContruction(){
+    
+}
+
+function intervalIdentification(){
+
+}
